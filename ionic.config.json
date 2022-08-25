@@ -1,0 +1,7 @@
+{
+  "name": "swft",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
